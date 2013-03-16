@@ -1,0 +1,58 @@
+url: https://itunes.apple.com/cn/app/bearadise/id471174398?mt=8&ign-mpt=uo%3D4
+<a href='https://itunes.apple.com/cn/app/bearadise/id471174398?mt=8&ign-mpt=uo%3D4' target='_blank'>https://itunes.apple.com/cn/app/bearadise/id471174398?mt=8&ign-mpt=uo%3D4</a>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><a href="https://itunes.apple.com/cn/app/bearadise/id471174398?mt=8&amp;ign-mpt=uo%3D4" target="_blank">https://itunes.apple.com/cn/app/bearadise/id471174398?mt=8&amp;ign-mpt=uo%3D4</a></body></html>
+(?-mix:^https?:\/\/.*\.(jpg|png|gif|jpeg)$)
+(?-mix:^https?\:\/\/.*\.smugmug\.com\/.*$)
+(?-mix:^https?:\/\/(?:www\.)?amazon.(com|ca)\/.*$)
+(?-mix:^https?\:\/\/qik\.com\/video\/.*$)
+(?-mix:^https?\:\/\/www\.hulu\.com\/watch\/.*$)
+(?-mix:^https?:\/\/(?:www\.)?kinomap\.com)
+(?-mix:^https?:\/\/(?:www\.)?clikthrough\.com\/theater\/video\/\d+$)
+(?-mix:^https?:\/\/(?:www\.)?twitter.com\/.*$)
+(?-mix:^https?\:\/\/imgur\.com\/.*$)
+(?-mix:^https?:\/\/(?:www\.)?github\.com\/[^\/]+\/[^\/]+\/blob\/.*)
+
+(?-mix:^https?:\/\/(?:www\.)?dailymotion\.com\/.+$)
+(?-mix:^https?:\/\/(?:www\.)?yfrog\.(com|ru|com\.tr|it|fr|co\.il|co\.uk|com\.pl|pl|eu|us)\/[a-zA-Z0-9]+)
+(?-mix:^https?\:\/\/(www\.)?ted\.com\/talks\/.*$)
+(?-mix:^https?\:\/\/vimeo\.com\/.*$)
+(?-mix:^https?\:\/\/meta\.discourse\.org\/.*$)
+(?-mix:^https?:\/\/gist\.github\.com)
+(?-mix:^https?:\/\/(?:www\.)?nfb\.ca\/film\/[-\w]+\/?)
+(?-mix:^https?:\/\/(?:www\.)?dotsub\.com\/.+$)
+(?-mix:^http\:\/\/(.*\.)?revision3\.com\/.*$)
+(?-mix:^https?\:\/\/.*\.flickr\.com\/.*$)
+(?-mix:^https?\:\/\/blip\.tv\/.+$)
+(?-mix:^https?:\/\/.*wikipedia\.(com|org)\/.*$)
+(?-mix:^https?:\/\/play\.google\.com\/.+$)
+(?-mix:^https?\:\/\/www\.collegehumor\.com\/video\/.*$)
+(?-mix:^https?:\/\/(?:www\.)?viddler\.com\/.+$)
+(?-mix:^https?:\/\/itunes\.apple\.com\/.+$)
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><a href="https://itunes.apple.com/cn/app/bearadise/id471174398?mt=8&amp;ign-mpt=uo%3D4" target="_blank">https://itunes.apple.com/cn/app/bearadise/id471174398?mt=8&amp;ign-mpt=uo%3D4</a></body></html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<div class="onebox-result">
+    <div class="source">
+      <div class="info">
+        <a href="https://itunes.apple.com/cn/app/bearadise/id471174398?mt=8&amp;ign-mpt=uo%3D4" target="_blank">
+          <img class="favicon" src="favicons/apple.png"> itunes.apple.com
+        </a>
+      </div>
+    </div>
+  <div class="onebox-result-body">
+    <img src="http://a4.mzstatic.com/us/r1000/087/Purple/84/45/25/mzl.tjfvtptg.175x175-75.jpg" class="thumbnail"><h3><a href="https://itunes.apple.com/cn/app/bearadise/id471174398?mt=8&amp;ign-mpt=uo%3D4" target="_blank">Bearadise</a></h3>
+    
+      (' u ') WELCOME TO THE ISLAND OF BEARADISE!★★★ #1 Board Game in China, Taiwan, Hong Kong, Thailand &amp; MacauA new innovative 'Tap &amp; Shuffle' block puzzle game that will test your ability to organize in the smartest way possible! With one fingertip and a very intuitive control system you can shuffle the cute bears, birds &amp; fruits around. Simply match them into groups of three or more to score huge points!★★★★★ Top #20 in 35 CountriesOUT NOW: Bearable! The sweetest swap-puzzle game - characters from 
+  </div>
+  <div class="clearfix"></div>
+</div>
+</body></html>
+== Sinatra/1.3.5 has taken the stage on 3100 for production with backup from Thin
+>> Thin web server (v1.5.0 codename Knife)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:3100, CTRL+C to stop
+192.168.1.100 - - [16/Mar/2013 22:15:15] "GET / HTTP/1.1" 200 1300 5.2898
+192.168.1.100 - - [16/Mar/2013 22:15:15] "GET /favicons/apple.png HTTP/1.1" 200 216 0.0064
+192.168.1.100 - - [16/Mar/2013 22:15:15] "GET /favicon.ico HTTP/1.1" 404 451 0.0013

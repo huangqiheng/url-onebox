@@ -1,0 +1,44 @@
+#!/usr/bin/env ruby
+#encoding: utf-8
+
+libdir = File.expand_path(File.dirname(__FILE__) + '/../lib')
+$LOAD_PATH.unshift(libdir) unless $LOAD_PATH.include?(libdir)
+
+require 'rubygems'
+require 'yaml'
+require 'sinatra'
+require 'url-onebox'
+
+config_path = File.expand_path(File.dirname(__FILE__) + '/../config')
+config = YAML.load_file(config_path + '/url-onebox-server.yml')
+host = config['server']['host']
+port = config['server']['port']
+
+#配置服务器
+set :bind, host
+set :port, port
+set :root, File.dirname(__FILE__)
+set :app_file, __FILE__
+set :logging, true
+set :sessions, true
+#set :views, Proc.new { File.join(root, "templates") }
+set :environment, :production
+set :public_folder, File.expand_path(File.dirname(__FILE__) + '/../static')
+
+log_path = File.expand_path(File.dirname(__FILE__) + '/../log')
+FileUtils.mkdir_p log_path
+log_file = log_path + '/server.log'
+log = File.new(log_file, "a+") 
+$stdout.reopen(log)
+$stderr.reopen(log)
+$stderr.sync = true
+$stdout.sync = true
+
+post = "<html><body><a href=\"https://itunes.apple.com/cn/app/bearadise/id471174398?mt=8&ign-mpt=uo%3D4\"></a></body></html>"
+args = {}
+
+get '/' do
+	UrlOnebox.map_onebox post,args
+end
+
+
